@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bot/AltCameraController.cs">
+    <Files>
+      <File FileName="Assets/Bot/AltCharacterController.cs" Line="64" Column="13" />
+      <File FileName="Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs" Line="61" Column="34" />
+      <File FileName="Assets/Bot/AltCameraController.cs" Line="5" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
